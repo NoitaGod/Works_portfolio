@@ -6,8 +6,8 @@
 一、模型制作
 1、扑翼机
 
-![image](https://github.com/NoitaGod/Works_portfolio/assets/108732421/3f4e13d4-494a-4043-936f-9449babe5604)
-![image](https://github.com/NoitaGod/Works_portfolio/assets/108732421/e8369d8e-4551-4eaa-98a7-dff3d2cc065a)
+![image](https://github.com/NoitaGod/Works_portfolio/assets/108732421/aa752328-1ea6-4583-8f27-46c5e8479495)
+![image](https://github.com/NoitaGod/Works_portfolio/assets/108732421/f268008a-0b96-4164-8cef-4898afb80fd4)
 
 作品亮点
 上层机翼采用镂空后重新组合设计的方式凸显科技感
@@ -15,7 +15,8 @@
 主机身设计骨节结构，逐节延伸，提高美观性
 
 2、国风楼阁
-![image](https://github.com/NoitaGod/Works_portfolio/assets/108732421/b338478b-bf82-44c2-be18-784bc6b23176)
+
+![image](https://github.com/NoitaGod/Works_portfolio/assets/108732421/4998751e-be64-40b5-a884-5cf1c03d9fe9)
 
 作品亮点
 所有横梁与立柱的连接处采用卯型和榫型设计
@@ -23,7 +24,7 @@
 提高了楼阁的整体高度，更显恢弘感
 3、智能机器人设计及场景搭建
 
-![image](https://github.com/NoitaGod/Works_portfolio/assets/108732421/4567aa7c-83ae-4f13-b60e-07cdc53d7db5)
+![image](https://github.com/NoitaGod/Works_portfolio/assets/108732421/b5abc119-9c59-409c-8d37-34407d9d5d47)
 
 二、Houdini效果制作
 雪地（沙地）脚印
